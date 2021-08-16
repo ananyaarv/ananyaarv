@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ananyaarv
-- 👀 I’m interested in coding, reading, social causes
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creating websites for a social cause
+- 👋 Hi, I’m @ananyaarv (Ananya Arvind)
+- 👀 I’m interested in coding, reading, social causes, and aerospace
 - 📫 I am reachable at ananya.arv@gmail.com
 
 <!---
